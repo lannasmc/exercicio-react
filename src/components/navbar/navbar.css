@@ -1,0 +1,19 @@
+.logo-navbar {
+  width: 100px;
+}
+
+.nav-navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+  margin: 15px;
+}
+
+li a {
+  text-decoration: none;
+}
