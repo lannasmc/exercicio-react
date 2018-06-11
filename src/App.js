@@ -8,8 +8,8 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <NavBar/>
-        <Form/>
+        <NavBar />
+        <Form />
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <h1 className="App-title">Criado por Lanna</h1>
